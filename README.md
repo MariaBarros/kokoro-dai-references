@@ -1,7 +1,7 @@
 # Kokoro Dai References
 This is a curated list of code references and code conventions for Kokoro Dai Project
 
-## What is Kokoro Dai Project
+## What Kokoro Dai Project is
 * A software development training program
 * A creative way for showing colective and individual skils of its members
 * A communitiy that explores the new technologies
