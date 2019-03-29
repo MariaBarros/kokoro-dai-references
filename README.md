@@ -3,7 +3,7 @@ This is a curated list of code references and code conventions for Kokoro Dai Pr
 
 ## What Kokoro Dai Project is
 * A software development training program
-* A creative way for showing colective and individual skils of its members
+* A creative way for showing colective and individual skills of its members
 * A communitiy that explores the new technologies
 * An unstructured organization
 * A human group acquiring new knewledge from the begining 
@@ -20,3 +20,17 @@ This is a curated list of code references and code conventions for Kokoro Dai Pr
 The content are organized by topics (programming languages in this case): **Javascript**, **Node**, etc.
 
 ### Javascript
+
+* [Events](Javascript.-Events)
+* [Template Literals](Javascript.-Template-literals)
+* [Destructuring Arrays and Objects](Javascript.-Destructuring)
+* [Error Handling](Javascript.-Error-Handling)
+* [Object Oriented](Javascript.-Object-oriented)
+* [Object Inheritance](Javascript.-Object-Inheritance)
+* [Classes](Javascript.-Classes)
+* [Callbacks](Javascript.-Callbacks)
+* [Promises](Javascript.-Promises)
+* [Fetch API](Javascript.-Fetch-API)
+
+### NodeJS
+* [Simple Method for creating a server and loading a website](NodeJS---Creating-a-Server)
