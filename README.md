@@ -21,16 +21,16 @@ The content are organized by topics (programming languages in this case): **Java
 
 ### Javascript
 
-* [Events](Javascript.-Events)
-* [Template Literals](Javascript.-Template-literals)
-* [Destructuring Arrays and Objects](Javascript.-Destructuring)
-* [Error Handling](Javascript.-Error-Handling)
-* [Object Oriented](Javascript.-Object-oriented)
-* [Object Inheritance](Javascript.-Object-Inheritance)
-* [Classes](Javascript.-Classes)
-* [Callbacks](Javascript.-Callbacks)
-* [Promises](Javascript.-Promises)
-* [Fetch API](Javascript.-Fetch-API)
+* [Events](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Events)
+* [Template Literals](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Template-literals)
+* [Destructuring Arrays and Objects](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Destructuring)
+* [Error Handling](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Error-Handling)
+* [Object Oriented](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Object-oriented)
+* [Object Inheritance](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Object-Inheritance)
+* [Classes](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Classes)
+* [Callbacks](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Callbacks)
+* [Promises](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Promises)
+* [Fetch API](https://github.com/MariaBarros/kokoro-dai-references/wiki/Javascript.-Fetch-API)
 
 ### NodeJS
-* [Simple Method for creating a server and loading a website](NodeJS---Creating-a-Server)
+* [Simple Method for creating a server and loading a website](https://github.com/MariaBarros/kokoro-dai-references/wiki/NodeJS---Creating-a-Server)
